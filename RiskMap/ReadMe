@@ -1,3 +1,6 @@
+Sample reference code: risk_map_12hr.py_whung  RISKmap_36h_NRT.py_hluo  RISKmap_36h_Retro.py_hluo
+
+
 risk_map_12hr.py: calculate risk for 06-12 hour time window, using 3 JPSS-low resol runs, 3 SNPP-low resol runs, and 2 high-resol runs
 RISKmap_36h_NRT.py: calculate risk for 30-36 hour time window, using 2 JPSS low-resol runs and 2 SNPP low-resol runs [NRT verssion]
 RISKmap_36h_Retro.py: The retro version for 30-36 risk map calculation
